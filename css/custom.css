@@ -1,14 +1,11 @@
-h6 {
+.animate {
 	color: #487a6a !important;
-	font-size: 16vw;
 	position: relative;
-	text-transform: uppercase;
-    letter-spacing: 15px;
 	/* -webkit-text-stroke: 0.3vw #f7f7fe; */
 }
 
 
-h6::before {
+.animate::before {
 	top: 0;
 	left: 0;
 	width: 0;
